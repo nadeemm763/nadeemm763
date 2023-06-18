@@ -37,14 +37,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-  <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/512/typescript.png"  width="48" height="48"/> </a>
-    <a href="https://rsgm .js.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"        alt="express" width="40" height="40"/> </a>
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mongodb.png" width="48" height="48"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a> 
-      <a href="https://chakra-ui.com" target="_blank"> <img src="https://img.icons8.com/color/512/chakra-ui.png" width="48" height="48"/> </a> 
-     <a href="https://mui.com/material-ui" target="_blank"> <img src="https://img.icons8.com/color/512/material-ui.png" width="48" height="48"/> </a> 
-     <a href="https://www.heroku.com" target="_blank"> <img src="https://img.icons8.com/color/512/heroku.png" width="48" height="48"/> </a>   
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>     </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     
@@ -67,6 +59,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemm763&theme=radical&langs_count=8" alt="fw210571" height="200px" width="25%" />
   </div>
   
- <div>
- <a href="https://github.com/nadeemm763/github-readme-activity-graph"><img alt="fw210571 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nadeemm763&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<div> 
+ 
